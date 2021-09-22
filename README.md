@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ---
 
-[![sseremelis's GitHub stats](https://github-readme-stats.vercel.app/api?username=sseremelis&count_private=true&show_icons=true&theme=react)](https://github.com/sseremelis)
+[![sseremelis's GitHub stats](https://github-readme-stats.vercel.app/api?username=sseremelis&count_private=true&show_icons=true)](https://github.com/sseremelis)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sseremelis&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
 
