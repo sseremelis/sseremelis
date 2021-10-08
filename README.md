@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there, I'm  Sotiris Seremelis 👋
+### I'm  Sotiris Seremelis, a front-end developer
 
 - 🔭 I’m currently working as a **front-end developer** at [Skroutz](https://www.skroutz.gr/)
 - 🌱 I’m currently learning how to use CSS grids 🙃
