@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m working as a **front-end developer** at [Skroutz](https://www.skroutz.gr/)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 ### I'm  Sotiris Seremelis, a front-end developer
 
-- 🔭 I’m currently working as a **front-end developer** at [Skroutz](https://www.skroutz.gr/)
 - 🌱 I’m currently learning how to use CSS grids 🙃
 - 😄 Pronouns: **he/him**
 
